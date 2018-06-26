@@ -1,0 +1,22 @@
+CRTMSGF MSGF(&O/&N) CCSID(65535)
+ADDMSGD MSGID(ERR0001) MSGF(BLDBIT_OBJ/SAMMSGF)  +
+MSG('Familly code unknown. Press F4 to select.') +
+LVL('10/25/16' 1) CCSID(297)
+ADDMSGD MSGID(ERR0002) MSGF(BLDBIT_OBJ/SAMMSGF)  +
+MSG('Country code unknown. Press F4 to select.') +
+LVL('10/25/16' 1) CCSID(297)
+ADDMSGD MSGID(ERR0003) MSGF(BLDBIT_OBJ/SAMMSGF)  +
+MSG('Article unknown. Press F4 to select.')      +
+LVL('10/25/16' 1) CCSID(297)
+ADDMSGD MSGID(ERR0004) MSGF(BLDBIT_OBJ/SAMMSGF)  +
+MSG('Customer unknown. Press F4 to select.')     +
+LVL('10/25/16' 1) CCSID(297)
+ADDMSGD MSGID(ERR0005) MSGF(BLDBIT_OBJ/SAMMSGF)  +
+MSG('Provider unknown. Press F4 to select.')     +
+LVL('10/25/16' 1) CCSID(297)
+ADDMSGD MSGID(ERR1001) MSGF(BLDBIT_OBJ/SAMMSGF)  +
+MSG('Delivered quantity must be lower or equal to ordered quantity.')+
+LVL('12/01/16' 1) CCSID(297)
+ADDMSGD MSGID(ERR1002) MSGF(BLDBIT_OBJ/SAMMSGF)  +
+MSG('Ordered quantity can not be lower that the quantity already delivered.') +
+LVL('12/01/16' 1) CCSID(297)
