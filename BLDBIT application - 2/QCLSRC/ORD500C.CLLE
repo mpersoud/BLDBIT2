@@ -1,5 +1,6 @@
              PGM        PARM(&ORD &PATH)
              DCL        VAR(&ORD) TYPE(*CHAR) LEN(5)
+             DCL        VAR(&ORD2) TYPE(*CHAR) LEN(500)
              DCL        VAR(&FILENAME) TYPE(*CHAR) LEN(50)
              DCL        VAR(&PATH) TYPE(*CHAR) LEN(100)
              CHGVAR     VAR(&FILENAME) VALUE('Custord' *CAT &ORD +
