@@ -1,6 +1,6 @@
      FCOU200D CF  E                    WORKSTN      KINFDS INFDS
      F                                        RRN01 KSFILE SFL01
-      *
+      **
      FCOUNTRY UF  E           K        DISK
       * SCREEN INFORMATION DS.
      IINFDS       DS
