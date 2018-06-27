@@ -26,6 +26,7 @@
      C                     ENDSR
      C           S01PRP    BEGSR
      C                     Z-ADD0         RRN01   40
+     C                     Z-ADD1         RRN01   40
      C                     SETON                     30
      C                     WRITECTL01
      C                     SETOF                     30
