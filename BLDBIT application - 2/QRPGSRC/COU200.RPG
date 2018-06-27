@@ -1,6 +1,6 @@
      FCOU200D CF  E                    WORKSTN      KINFDS INFDS
      F                                        RRN01 KSFILE SFL01
-      **
+      *
      FCOUNTRY UF  E           K        DISK
       * SCREEN INFORMATION DS.
      IINFDS       DS
@@ -26,7 +26,7 @@
      C                     ENDSR
      C           S01PRP    BEGSR
      C                     Z-ADD0         RRN01   40
-     C                     Z-ADD1         RRN01   40
+     C                     Z-ADD3         RRN01   40
      C                     SETON                     30
      C                     WRITECTL01
      C                     SETOF                     30
