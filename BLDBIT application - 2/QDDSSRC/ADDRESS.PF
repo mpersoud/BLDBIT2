@@ -14,3 +14,5 @@
                   ADMODID       10          TEXT('LAS MOD BY')
                                             COLHDG('LAST' 'MODIF.' 'BY')
                   ADDEL     R               REFFLD(DLCODE)
+                  ADMODI2       10          TEXT('LAS MOD BY 2')
+                                            COLHDG('LAST' 'MODIF.' 'BY 2')
